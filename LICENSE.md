@@ -2,6 +2,14 @@
 
 This software includes the following third-party packages, each with its own license.
 
+## Node.js
+- License: MIT License
+- Repository: [GitHub](https://github.com/nodejs/node)
+
+## React.js
+- License: MIT License
+- Repository: [GitHub](https://github.com/facebook/react)
+
 ## @date-io/date-fns
 - License: MIT License
 - Repository: [GitHub](https://github.com/date-io/date-fns)
@@ -49,10 +57,6 @@ This software includes the following third-party packages, each with its own lic
 ## js-cookie
 - License: MIT License
 - Repository: [GitHub](https://github.com/js-cookie/js-cookie)
-
-## react
-- License: MIT License
-- Repository: [GitHub](https://github.com/facebook/react)
 
 ## react-dom
 - License: MIT License
